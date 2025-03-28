@@ -1,0 +1,1 @@
+alert("Basic of html !")

@@ -1,0 +1,55 @@
+Welcome to code with harry web dev course this is day 1
+install vs code
+setup vs code
+install extension--
+live preview
+live server
+
+
+//how website works
+       request
+client ----browser----> Server
+       <---------------
+        response
+
+
+//create  your first website using index.html
+
+
+//How a Website Works?
+A website is a collection of web pages that are accessed through a browser using the internet. It follows a client-server architecture where:
+
+User (Client) requests a webpage by entering a URL.
+
+Server processes the request and sends the required files (HTML, CSS, JS, images, etc.).
+
+Browser renders the webpage and displays it to the user.
+
+User interacts with the website (clicks, fills forms, etc.), sending new requests to the server.
+
+///Introduction to MERN Stack
+MERN Stack is a JavaScript-based technology stack used to build full-stack web applications. It consists of:
+
+MongoDB – NoSQL Database (Stores data in JSON-like format)
+
+Express.js – Backend framework (Handles server logic & APIs)
+
+React.js – Frontend library (Builds dynamic user interfaces)
+
+Node.js – JavaScript runtime (Executes server-side code)
+
+How MERN Works?
+
+React.js (Frontend) sends requests to the backend.
+
+Express.js + Node.js (Backend) processes requests and interacts with MongoDB.
+
+MongoDB (Database) stores and retrieves data as needed.
+
+MERN allows developers to build scalable and interactive full-stack applications using JavaScript for both frontend and backend. 🚀
+
+
+
+
+
+

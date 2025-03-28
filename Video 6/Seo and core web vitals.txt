@@ -1,0 +1,11 @@
+seo and core web vitals
+
+cls
+lcp
+fid
+
+
+//lighthouse report
+//seo
+title
+meta:des
